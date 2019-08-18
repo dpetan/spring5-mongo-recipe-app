@@ -19,6 +19,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * Created by jt on 6/21/17.
  */
+@Ignore
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class RecipeServiceIT {
