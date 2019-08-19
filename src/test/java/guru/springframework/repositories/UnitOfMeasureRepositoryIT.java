@@ -17,7 +17,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 /**
  * Created by jt on 6/17/17.
  */
-@Ignore
 @RunWith(SpringRunner.class)
 @DataMongoTest
 public class UnitOfMeasureRepositoryIT {
